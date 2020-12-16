@@ -6,7 +6,7 @@
     "background_color": "#FFFFFF",
     "description": "Magister bedient meer dan 500 scholen in Nederland. Dagelijks helpen wij met Magister de administratie, docenten en leerlingen soepel door hun schooldag.",
     "icons": [{
-        "src": "https://cooleman2007.github.io/Utils/web/images/icons/discord.png",
+        "src": "https://cooleman2007.github.io/Utils/web/images/icons/discord-48x48.png",
         "sizes": "512x512",
         "type": "image/png"
     }]
