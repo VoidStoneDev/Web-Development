@@ -3,7 +3,7 @@
     "short_name": "Magister",
     "start_url": "temp.html",
     "display": "standalone",
-    "background_color": "#FFFFFF",
+    "background_color": "#2539eb",
     "description": "Magister bedient meer dan 500 scholen in Nederland. Dagelijks helpen wij met Magister de administratie, docenten en leerlingen soepel door hun schooldag.",
     "icons": [{
         "src": "https://cooleman2007.github.io/Utils/web/images/icons/magister-16x16.png",
