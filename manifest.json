@@ -1,7 +1,7 @@
 {
     "name": "Magister",
     "short_name": "Magister",
-    "start_url": ".",
+    "start_url": "temp.html",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "description": "Magister bedient meer dan 500 scholen in Nederland. Dagelijks helpen wij met Magister de administratie, docenten en leerlingen soepel door hun schooldag.",
