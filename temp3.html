@@ -7,9 +7,11 @@
 
     <meta id="theme-color-meta" name="theme-color" content="#2539eb">
     <script>
-        document.getElementById("i").onclick = function() {
-            document.getElementById("theme-color-meta").setAttribute("content", "#FFFFFF");
-        }
+        window.onload = function() {
+            document.getElementById("i").onclick = function() {
+                document.getElementById("theme-color-meta").setAttribute("content", "#FFFFFF");
+            };
+        };
     </script>
 </head>
 <body>
