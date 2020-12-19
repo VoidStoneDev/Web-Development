@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oembed>
+    <version>1.0</version>
+    <type>link</type>
+    <title>${title_placeholder}</title>
+    <author_name>${author_name_placeholder}</author_name>
+    <author_url>${author_url_placeholder}</author_url>
+    <provider_name>${provider_name_placeholder}</provider_name>
+    <provider_url>${provider_url_placeholder}</provider_url>
+    <cache_age>${cache_age_placeholder}</cache_age>
+    <thumbnail_url>${thumbnail_url_placeholder}</thumbnail_url>
+    <thumbnail_width>${thumbnail_width_placeholder}</thumbnail_width>
+    <thumbnail_height>${thumbnail_height_placeholder}</thumbnail_height>
+    
+</oembed>
