@@ -3,11 +3,12 @@
     "short_name": "sc",
     "display": "standalone",
     "lang": "en_US",
-    "start_url": "https://cooleman2007.github.io/Web-Development/test/",
+    "start_url": "https://google.com/aseuiashahrasr",
     "background_color": "blue",
     "categories": ["shortcuts"],
     "description": "just some dumb shortcuts lol",
     "orientation": "any",
+    "scope": "https://google.com",
     "shortcuts": [{
         "name": "Google",
         "short_name": "Google",
