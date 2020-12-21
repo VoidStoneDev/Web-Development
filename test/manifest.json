@@ -1,6 +1,6 @@
 {
     "name": "Shortcuts",
-    "short_name": "sc",
+    "short_name": "shortcuts",
     "display": "standalone",
     "lang": "en_US",
     "start_url": "https://cooleman2007.github.io/Web-Development/index.html",
