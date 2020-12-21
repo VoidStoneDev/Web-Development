@@ -1,33 +1,54 @@
 {
-    "name": "ShortcutsHelp",
-    "short_name": "shortcuts",
-    "display": "standalone",
-    "lang": "en_US",
-    "start_url": "https://cooleman2007.github.io/Web-Development/index.html",
-    "background_color": "blue",
-    "categories": ["shortcuts"],
-    "description": "just some dumb shortcuts lol",
-    "orientation": "any",
-    "scope": "https://cooleman2007.github.io/Web-Development",
-    "shortcuts": [{
-        "name": "Google",
-        "short_name": "Google",
-        "description": "A shortcut to google",
-        "url": "https://cooleman2007.github.io/Web-Development/test/google.html",
-        "icons": [{
-            "src": "https://img-authors.flaticon.com/google.jpg",
-            "sizes": "300x300",
-            "type": "image/jpg"
-        }]
-    }, {
-        "name": "Bing",
-        "short_name": "Bing",
-        "description": "A shortcut to bing",
-        "url": "https://cooleman2007.github.io/Web-Development/test/bing.html",
-        "icons": [{
-            "src": "https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/bing-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }]
-    }]
-}
+    "name": "PlayerFM",
+    "start_url": "https://app.playerfm.com",
+    "shortcuts": [
+      {
+        "name": "Play Later",
+        "description": "View the list of podcasts you saved for later",
+        "url": "/icon",
+        "icons": [
+          {
+            "src": "/icons/play-later.svg",
+            "type": "image/svg+xml",
+            "purpose": "any"
+          }
+        ]
+      },
+      {
+        "name": "Subscriptions",
+        "description": "View the list of podcasts you listen to",
+        "url": "/subscriptions",
+        "icons": [
+          {
+            "src": "/icons/subscriptions.svg",
+            "type": "image/svg+xml",
+            "purpose": "any"
+          }
+        ]
+      },
+      {
+        "name": "Search",
+        "description": "Search for new podcasts to listen to",
+        "url": "/search",
+        "icons": [
+          {
+            "src": "/icons/search.svg",
+            "type": "image/svg+xml",
+            "purpose": "any"
+          }
+        ]
+      },
+      {
+        "name": "Discover",
+        "description": "Browse for new podcasts to listen to",
+        "url": "/discover",
+        "icons": [
+          {
+            "src": "/icons/discover.svg",
+            "type": "image/svg+xml",
+            "purpose": "any"
+          }
+        ]
+      }  
+    ]
+  }
