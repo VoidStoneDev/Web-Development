@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>${location_placeholder}</loc>
+        <lastmod>${last_mod_placeholder}</lastmod>
+        <changefreq>${changefreq_placeholder}</changefreq>
+        <priority>${priority_placeholder}</priority>
+    </url>
+</urlset>

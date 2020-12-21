@@ -1,0 +1,22 @@
+{
+    "name": "Shortcuts",
+    "short_name": "sc",
+    "display": "standalone",
+    "lang": "en_US",
+    "start_url": "https://cooleman2007.github.io/Web-Development/test/",
+    "background_color": "blue",
+    "categories": ["shortcuts"],
+    "description": "just some dumb shortcuts lol",
+    "orientation": "any",
+    "shortcuts": [{
+        "name": "Google",
+        "short_name": "Google",
+        "description": "A shortcut to google",
+        "url": "https://google.com",
+        "icons": [{
+            "src": "https://img-authors.flaticon.com/google.jpg",
+            "sizes": "300x300",
+            "type": "image/jpg"
+        }]
+    }]
+}

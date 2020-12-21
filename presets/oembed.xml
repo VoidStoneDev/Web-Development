@@ -11,5 +11,4 @@
     <thumbnail_url>${thumbnail_url_placeholder}</thumbnail_url>
     <thumbnail_width>${thumbnail_width_placeholder}</thumbnail_width>
     <thumbnail_height>${thumbnail_height_placeholder}</thumbnail_height>
-    
 </oembed>
