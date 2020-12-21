@@ -8,7 +8,7 @@
     "categories": ["shortcuts"],
     "description": "just some dumb shortcuts lol",
     "orientation": "any",
-    "scope": "https://cooleman2007.github.io/Web-Development/test",
+    "scope": "https://cooleman2007.github.io/Web-Development",
     "shortcuts": [{
         "name": "Google",
         "short_name": "Google",
