@@ -2,5 +2,15 @@
 <html>
     <head>
         <link rel="manifest" href="https://cooleman2007.github.io/Web-Development/test/manifest.json">
+
+        <script>
+            window.onload = function() {
+                caches.keys().then(function(names) {
+                    for(let name of names) {
+                        caches.delete(name);
+                    }
+                })
+            }
+        </script>
     </head>
 </html>
