@@ -19,5 +19,15 @@
             "sizes": "300x300",
             "type": "image/jpg"
         }]
+    }, {
+        "name": "Bing",
+        "short_name": "Bing",
+        "description": "A shortcut to bing",
+        "url": "https://cooleman2007.github.io/Web-Development/test/bing.html",
+        "icons": [{
+            "src": "https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/bing-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }]
     }]
 }
